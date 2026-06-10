@@ -202,6 +202,21 @@ currently:   Making LLMs behave like reliable tools
 
 <br/>
 
+<!-- =============================  SNAKE  ============================== -->
+## 🐍 &nbsp;Watch My Contributions Slither
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeAvd/CodeAvd/output/github-snake-custom.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeAvd/CodeAvd/output/github-snake.svg" />
+  <img width="100%" alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/CodeAvd/CodeAvd/output/github-snake-custom.svg" />
+</picture>
+
+</div>
+
+<br/>
+
 <!-- ============================  CONTACTS  ============================ -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Connect
 
