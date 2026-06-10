@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" fill="none" role="img" aria-label="Grigorii — AI and Quant Engineer. A standing dossier.">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8A7F6E" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- panel -->
+  <rect x="1.5" y="1.5" width="1197" height="297" rx="20" fill="#161210"/>
+  <rect x="1.5" y="1.5" width="1197" height="297" rx="20" fill="url(#grid)"/>
+  <rect x="2" y="2" width="1196" height="296" rx="19.5" fill="none" stroke="#D6452B" stroke-opacity="0.28" stroke-width="1.5"/>
+
+  <!-- ── left: masthead ── -->
+  <text x="64" y="62" font-family="'IBM Plex Mono',ui-monospace,monospace" font-size="13" letter-spacing="3" fill="#8A7F6E">DOSSIER · G. AVDEEV</text>
+
+  <text x="61" y="150" font-family="'Fraunces','Hoefler Text',Georgia,serif" font-size="82" font-weight="600" letter-spacing="-1" fill="#EDE4D3">Grigorii<tspan fill="#D6452B">.</tspan></text>
+
+  <text x="64" y="190" font-family="'IBM Plex Mono',ui-monospace,monospace" font-size="16" letter-spacing="1" fill="#8A7F6E"><tspan fill="#E2664B">@CodeAvd</tspan>  ·  AI &amp; Quant Engineer  ·  Agent Builder</text>
+
+  <rect x="64" y="212" width="372" height="2" fill="#D6452B"/>
+
+  <text x="64" y="250" font-family="'IBM Plex Mono',ui-monospace,monospace" font-size="11" letter-spacing="2.5" fill="#8A7F6E">EVIDENCE OVER VIBES · APPROVAL OVER AUTONOMY</text>
+
+  <!-- ── right: Exhibit 01 — cross-market depth motif ── -->
+  <g transform="translate(770,0)">
+    <text x="0" y="62" font-family="'IBM Plex Mono',ui-monospace,monospace" font-size="10" letter-spacing="2" fill="#8A7F6E">EXH.01 · CROSS-MARKET SPREAD</text>
+
+    <!-- baseline -->
+    <line x1="0" y1="240" x2="360" y2="240" stroke="#8A7F6E" stroke-opacity="0.3" stroke-width="1"/>
+    <!-- faint price ticks -->
+    <line x1="60" y1="92" x2="60" y2="240" stroke="#8A7F6E" stroke-opacity="0.12"/>
+    <line x1="180" y1="92" x2="180" y2="240" stroke="#8A7F6E" stroke-opacity="0.12"/>
+    <line x1="300" y1="92" x2="300" y2="240" stroke="#8A7F6E" stroke-opacity="0.12"/>
+
+    <!-- bid book (left, descending toward the gap) -->
+    <g fill="#EDE4D3" fill-opacity="0.46">
+      <rect x="6"  y="124" width="11" height="116"/>
+      <rect x="30" y="134" width="11" height="106"/>
+      <rect x="54" y="148" width="11" height="92"/>
+      <rect x="78" y="166" width="11" height="74"/>
+      <rect x="102" y="186" width="11" height="54"/>
+      <rect x="126" y="204" width="11" height="36"/>
+    </g>
+    <!-- ask book (right, ascending away from the gap) -->
+    <g fill="#EDE4D3" fill-opacity="0.46">
+      <rect x="223" y="204" width="11" height="36"/>
+      <rect x="247" y="186" width="11" height="54"/>
+      <rect x="271" y="166" width="11" height="74"/>
+      <rect x="295" y="148" width="11" height="92"/>
+      <rect x="319" y="134" width="11" height="106"/>
+      <rect x="343" y="124" width="11" height="116"/>
+    </g>
+
+    <!-- the spread closing: vermilion line bridging best bid → best ask -->
+    <line x1="131" y1="204" x2="228" y2="204" stroke="#D6452B" stroke-width="2"/>
+    <circle cx="131" cy="204" r="3" fill="#D6452B"/>
+    <circle cx="228" cy="204" r="3" fill="#D6452B"/>
+
+    <!-- micro labels -->
+    <text x="6"   y="262" font-family="'IBM Plex Mono',ui-monospace,monospace" font-size="10" letter-spacing="1" fill="#8A7F6E">bid</text>
+    <text x="150" y="262" font-family="'IBM Plex Mono',ui-monospace,monospace" font-size="10" letter-spacing="1" fill="#E2664B">spread → closed</text>
+    <text x="336" y="262" font-family="'IBM Plex Mono',ui-monospace,monospace" font-size="10" letter-spacing="1" fill="#8A7F6E">ask</text>
+  </g>
+</svg>
