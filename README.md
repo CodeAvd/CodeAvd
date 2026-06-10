@@ -17,14 +17,15 @@
 
 <div align="center">
 
-# Grigorii &nbsp;·&nbsp; `@CodeAvd`
-
-### AI&nbsp;&amp;&nbsp;Quant Engineer &nbsp;•&nbsp; Agent Builder &nbsp;•&nbsp; Full-Stack Tinkerer
+<!-- Self-hosted animated SVG header (assets/header.svg) — no third-party service,
+     animates via camo like the snake. Edit the SVG, not this line, to restyle. -->
+<a href="https://github.com/CodeAvd">
+  <img width="100%" src="https://raw.githubusercontent.com/CodeAvd/CodeAvd/main/assets/header.svg" alt="Grigorii — AI & Quant Engineer · Agent Builder · Full-Stack Tinkerer" />
+</a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=640&height=45&lines=Building+file-first+AI+agents+%F0%9F%A4%96;Quant+%26+arbitrage+systems+%F0%9F%93%88;RAG%2C+evals+%26+human-in-the-loop;Turning+LLMs+into+reliable%2C+auditable+tools)](https://github.com/CodeAvd)
 
 <a href="https://github.com/CodeAvd"><img src="https://komarev.com/ghpvc/?username=CodeAvd&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="Profile views" /></a>
-<a href="https://github.com/CodeAvd?tab=followers"><img src="https://img.shields.io/github/followers/CodeAvd?label=Followers&style=for-the-badge&color=06B6D4&labelColor=0D1117&logo=github" alt="Followers" /></a>
 <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20Quant-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Focus" />
 
 </div>
